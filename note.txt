@@ -1,0 +1,22 @@
+git init：初始化創建一個版本資料庫
+
+git add：把修改後的文件加入要被提交的清單內
+
+git status：看檔案資訊(是否上傳/已修改...等)
+
+git commit -m：將修改過後的檔案存成一個版本
+
+clear：清除
+
+把Git Hub上的資料夾傳到本地資料庫
+git remote add origin https://github.com/Ching120/Cource0317.git
+
+remote - 遠端連線資料庫
+origin - 連線名稱
+https://github.com/Ching120/Cource0317.git - 連線網址
+
+git push -上傳到遠端資料庫
+
+git pull- 下載遠端資料庫
+
+git clone-複製網址的檔案到本地端
